@@ -1,0 +1,19 @@
+{
+  "name": "nodeexpressmangodb",
+  "version": "1.0.0",
+  "description": "node express and mangodb practice",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "Bharath kumar",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
